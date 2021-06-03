@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The high way to honor: as it was deliuered (for substance) in two sermons, at Alhallowes Barking in London, the one of August 6. the other on August 13. 1626. By Robert Louell minister and preacher of Gods worde, and curate of the same place</title>
+            <author>Lovell, Robert, curate of Allhallows, Barking.</author>
+         </titleStmt>
+         <extent>Approx. 84KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14618</idno><idno type="EEBO-CITATION">99839375_3787</idno>
+  <idno type="VID">3787</idno>
+  <idno type="EEBO-PROQUEST">2264176320</idno>
+  <idno type="STC">STC 16857.7</idno>
+  <idno type="STC">ESTC S103626</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839375e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 715:20, 1633:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The high way to honor: as it was deliuered (for substance) in two sermons, at Alhallowes Barking in London, the one of August 6. the other on August 13. 1626. By Robert Louell minister and preacher of Gods worde, and curate of the same place</title>
+                  <author>Lovell, Robert, curate of Allhallows, Barking.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. A[llde] for Ni: Bourne, dwelling at the South entrance of the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Printer's device (McKerrow 310) on title page.</note>
+                  <note>Running title reads: The way to honour.</note>
+                  <note>Reproductions of the originals in the Folger Shakespeare Library (reel 715) and the British Library (reel 1633).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3787:1"/>
+            <p>THE HIGH WAY TO HONOR: As it was deliuered (for substance) in two Sermons, at <hi>Alhallowes Barking</hi> in <hi>London,</hi> the one on <hi>August</hi> 6. the other on <hi>August</hi> 13. 1626.</p>
+            <q>
+               <hi>Oh naked Soule (or rather naughty sinner) why art thou proud? looke on thy selfe, on thy sinnes and thy Soule, and see if ought in either will not teach thee humilitie.</hi>
+               <bibl>Aug. <hi>sililoq.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>Robert Louell</hi> Minister and Preacher of Gods Worde, and Curate of the same place.</p>
+            <p>LONDON Printed by <hi>E. A.</hi> for <hi>Ni: Bourne,</hi> dwelling at the South entrance of the <hi>Royall-Exchange.</hi> 1627.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:3787:2"/>
+            <pb facs="tcp:3787:2"/>
+            <head>To the right Religious, Noble, and Vertuous Lady, the Lady <hi>Dorothy Capell</hi> dwelling at <hi>Ocsteed</hi> in <hi>Surrey,</hi> Grace &amp; Peace be multiplyed from God the Father, and from our Lord Iesus Christ.</head>
+            <opener>
+               <salute>Madame,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it please you to giue me leaue to grace my Labours with your Noble Name, which shalbe vnto them as much grace as a good Light vnto a Picture. If herein there were any thing worthy of respect, they do belong vnto your La<seg rend="sup">ip.</seg> in many respects. For would I be a Trumpeter of your priuate fa<g ref="char:EOLhyphen"/>uours, I could sound out an Allarum both of your pitty &amp; Piety which you shewed both vntome &amp; mine, whilst I liued at <hi>Garlick-Hithe</hi> among those louing &amp; liberal Parishioners. But I know you are too sound to loue such Sounds, else would my poore Childrens bellyes, and mine owne backe (which you haue so often filled, &amp; this time presently cloathed) declare your praise in the Presse. Well then, what shall I render vnto you for your bounty but duty, honour &amp; pray<g ref="char:EOLhyphen"/>ers? These premised of all that know what you haue bene vnto me and mine, I thinke doe make
+<pb facs="tcp:3787:3"/>them thinke, that if ought els might be added, it were no more then became a thankfull man.</p>
+            <p>Take this then vertuous Lady (for a Newe-Yeares guift) that hath nothing besides himselfe to giue vnto you; which indeed I present, not so much to Instructe you, as to remember you in that which you are so well learned in: and that is TRVE HVMILITY, which you finding by a comfortable experience to be the HIGH<g ref="char:EOLhyphen"/>WAY TO HONOVR, you doe well to tread that Tracte; And good Madam goe on, for that will truely ennoble you, and bring you to great honour &amp; high exaltation. In which progresse of Yours, if this poore Sermon of mine might be either a Light, Guide or Staffe, it would glad my heart, and reioyce my soule, and make me thinke that my labour had in some measure an<g ref="char:EOLhyphen"/>swered your La<seg rend="sup">ips.</seg> loue, though not to the full. Will you Patronage so weake a worke? if not, yet pardon the workeman, who vndertooke the taske onely as a Token of a faithfull minde, who euer desires to shewe himselfe</p>
+            <closer>
+               <signed>Your, La<seg rend="sup">ips.</seg> addicted in all respectiue obseruances: <hi>Robert Louell.</hi>
+               </signed>
+               <dateline>From my Study at <hi>Alhal<g ref="char:EOLhyphen"/>lowes Barking</hi> in London <date>the 20 of Decemb. 1626.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:3787:3"/>
+            <head>THE VVAY TO HONOVR.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Text, 1. Pet. 5 ver. 6.</hi>
+                  </bibl>
+                  <p>Humble your selues therefore vnder the Migh<g ref="char:EOLhyphen"/>ty hand of God, and hee shall exalt you in due time.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>ONOVR is euery mans <hi>Aime,</hi> in getting of which, how some haue both wearyed and wa<g ref="char:EOLhyphen"/>sted themselues, all Stories both Sacred and profane can make manifest. Instances we haue in <hi>Abimilecke:</hi> Iudg. 9.5. <hi>Absolom.</hi> 2. <hi>Sam.</hi> 15.2. <hi>Athaliah.</hi> 2. King. 11.1. For the which be<g ref="char:EOLhyphen"/>cause they tooke not the right methode, all their <hi>Honor</hi> lay in the dust, and it proued the bane of all their hopefull endeouours. Which <hi>White</hi> the Philosopher seeing so many to shoote at, and <hi>Misse,</hi> hath therefore discarded. <hi>Honor</hi> from being either called or counted <hi>Felicitie.</hi>
+               <note n="(1)" place="margin">
+                  <hi>Aristot. Ethnt l.</hi> 2.6.</note> But because these two are out of the way both in their <hi>Axiomes</hi> and <hi>Actions,</hi> giue me leaue to bring you into the right path, which is, <hi>Be Humble and you shall be Honorable.</hi> For as the <hi>Romanes</hi> built <hi>Two Temples</hi> ioyned toge<g ref="char:EOLhyphen"/>ther, and dedicated the one to <hi>Vertue,</hi> the other to <hi>Honor,</hi> and that in such sort, as that none could enter into that of <hi>Honor,</hi> ex<g ref="char:EOLhyphen"/>cept he first passed through this of <hi>Vertue.</hi>
+               <note n="(2)" place="margin">
+                  <hi>Peter de Primauday. cademie. c<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> 23. <hi>pag.</hi> 23<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>in</hi> 4 <hi>to.</hi>
+               </note> So hath God dealt with this <hi>Guift of Grace</hi> which hee hath so <hi>Graced with Guifts,</hi> making euery one that desireth to be <hi>Throughly Honored,</hi> to be also <hi>Truely Humbled.</hi> This is indeede, <hi>Et Schola Caeli, &amp; Seala.</hi>
+               <note n="(3)" place="margin">Bonauen<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Dict. salut. C<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 3<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> both the Schoole teaching, and the Scale reaching vnto heauen. In which if you will learne, or by which if you will walke, I will quickely shewe you the Hardest of your
+<pb n="2" facs="tcp:3787:4"/>Worke, and the Worst of your Way: which is, <hi>Humble your selues vnder the Mightie hand of God:</hi> which least any man should with <hi>Israel of old</hi>
+               <note n="(4)" place="margin">Mal. 3.14</note> count but a vaine thing, beleeue his promise, who is <hi>Both Yea, and Amen.</hi>
+               <note n="(5)" place="margin">Reuel. 3 14</note> that saith <hi>And He shall exalt you.</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>insio.</note> Which tract if any will treade, let them in the word as in a way of any length obserue,
+<list>
+                  <item>1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> A Descent. <hi>Humble your selues.</hi>
+                  </item>
+                  <item>2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> An Ascent. <hi>And he shall Exalt you.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In which Two wayes, see how We walke towards God, and behold how He comes towards vs.
+<list>
+                  <item>1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> We to <hi>Him</hi> in Humilitie, <hi>Humble your selues.</hi>
+                  </item>
+                  <item>2. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>He</hi> to <hi>Ʋs</hi> in <hi>Sublimitie, And He shall exalt vs.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In the Former,
+<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ubdiuisio. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>imae pars.</note> we come to him in Feare; <hi>Humble your selues:</hi>
+            </p>
+            <p>In the latter, He comes to Vs in Fauour, <hi>And he shall exalt you.</hi>
+            </p>
+            <p>And now I pray you doe but marke well the descent which hath in it.</p>
+            <p>These 3. steppes
+<list>
+                  <item>1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Act, <hi>Humble.</hi>
+                  </item>
+                  <item>2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Agents, <hi>your selues.</hi>
+                  </item>
+                  <item>3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Arguments: which are</item>
+               </list>
+            </p>
+            <p>Two
+<list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Th'one implyed in that which goeth before. <hi>There<g ref="char:EOLhyphen"/>fore.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Th'other expressed in that which followeth. <hi>The Mightie hand of God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And now as wee haue descended by these 3. steppes of Hu<g ref="char:EOLhyphen"/>militie; so let vs Ascend by as many degrees to that Sublimitie.</p>
+            <q>
+               <hi>And he shall humble you in due time.</hi>
+            </q>
+            <note place="margin">
+               <hi>Subdiuis.</hi> 2ae. <hi>p.</hi>
+            </note>
+            <p>Wherein we haue to note
+<list>
+                  <item>1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Author, <hi>He</hi>
+                  </item>
+                  <item>2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Honor, <hi>Shall Exalt you.</hi>
+                  </item>
+                  <item>3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Opportunitie of the time, <hi>In Due time.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Here you see a <hi>World of Matter,</hi> but I can giue you but the <hi>Mappe</hi> of it: yet as <hi>Gold-smiths</hi> are wont to gather the very least <hi>Crummes</hi> and <hi>Fileings</hi> of their Gold that nothing be lost: So will Ideale with this parcell of the <hi>most refined Gold of Gods sacred Word;</hi> Not one <hi>Crumme,</hi> not one <hi>Emphaticall word</hi> of it shall goe vnspoken of.
+<note place="margin">
+                  <hi>Prima</hi> 1 <hi>mae.</hi>
+               </note> And first we will descend in order to the Descent, and therein eye the Act, which is <hi>Humble.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:
+<pb n="3" facs="tcp:3787:4"/>which <hi>Arius Montanus</hi> takes Passiuely: <hi>Humiliamini, Be yee Humbled:</hi> which because many are, who were neuer <hi>Humble,</hi> I hold that <hi>Beza</hi> hath the better of it, who translates it actiuely: <hi>Submittete; Humble your selues, Bow your selues, Submit your selues, Yea cast down your selues on the earth, yea euen into the earth</hi>
+               <note n="(6)" place="margin">
+                  <hi>Est enim<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> mleriū (Scho<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Humilitatis.</hi> George. <hi>Pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Lexicon Grae<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> latini, pag.</hi> 28 <hi>Col.</hi> 2. <hi>in fine<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> for that seemes not <hi>Lowe</hi> enough to them that are <hi>Lowelie.</hi> In which Act, the <hi>Humble</hi> therefore imitate the <hi>Architect,</hi> who buil<g ref="char:EOLhyphen"/>ding <hi>high,</hi> layes his foundation <hi>low,</hi> euen <hi>deepe</hi> into the <hi>Earth:</hi> so saith S. <hi>Aug. Cogitas magnam fabricam constituere Celsitudinis? defundamentiprius cogita Humilitatis.</hi>
+               <note n="(7)" place="margin">Aug. <hi>ser.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> vetbis Dom se<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> Doe you thinke to make a great building for the honor of your maiestie? then first thinke of the ground worke or foundation which is <hi>Humility. Humble your selues therefore.</hi> Let <hi>earth to earth,</hi> let <hi>Ashes to Ashes,</hi> let <hi>dust to dust,</hi> euen so <hi>Iowelie</hi> let vs be in our owne eyes.</p>
+            <p>
+               <hi>Humanists,</hi> yea and <hi>Diuines</hi> also doe fetch the <hi>Etymon</hi> of this word as lowe as the very ground: saying, that it is, <hi>Humilis ab Humo.</hi>
+               <note n="(8)" place="margin">Isidor <hi>Ety<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> molig. li.</hi> 10.6. Albert <hi>Man. i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> I. uc. 1. <hi>fol.</hi> 3<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>lit. K<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 3 Lucol. <hi>de Sax<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> do vild (Christ par.</hi> 1. <hi>c.</hi> 80. <hi>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> H<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> That our <hi>Humanitie</hi> and <hi>Humilitie</hi> haue both one ground. <hi>Quasi nunquam Homines vere simus, nisi simul H<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> miles simus futuri.</hi>
+               <note n="(9)" place="margin">Arer. <hi>Prob. loc.</hi> 94. <hi>fol.</hi> 289</note> As if by it they would imply, That wee were not <hi>truely men, yea, men indeede</hi> vnlesse with our <hi>(Huma<g ref="char:EOLhyphen"/>nitie</hi> we had <hi>Humilitie.</hi>
+            </p>
+            <p>
+               <hi>The earth is</hi> the <hi>lowest</hi> of all the <hi>Elements,</hi> and the <hi>Center of the world,</hi> and <hi>Man</hi> that liues thereon as he is <hi>lowe in scituation:</hi> So, and <hi>More</hi> also is he in his <hi>owne estimation:</hi> And because hee seeth that the <hi>earth</hi> giues him both <hi>originall harbour,</hi> and <hi>sepul<g ref="char:EOLhyphen"/>ture,</hi> and that it is vnto him, both <hi>a Mother, a Stage</hi> and <hi>a Tombe,</hi> he will therefore be <hi>Humble: Hyssop</hi> is that her be of grace that growes only in the godly mans Garden, of which it is written.</p>
+            <p>
+               <hi>Est humilis, Petraeque suis radicibus haeret:</hi>
+               <note n="(10)" place="margin">
+                  <hi>Plin. nal. Hist<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 10. <hi>cap.</hi> 4</note> that is, That it growes lowe, and cleaues to the Rocke where out it growes, and whereof it is vpholden; so <hi>Humilitie</hi> is only in the heart of <hi>his</hi> that is the <hi>Author of grace;</hi> who thereby doe <hi>anihi<g ref="char:EOLhyphen"/>late</hi> their worth and cleaue fast to their Rocke <hi>Christ Iesus:</hi> but let this suffice to informe vs <hi>whence</hi> it is, And now let vs learne what it is: for indeed <hi>All is not gold that glitters,</hi> neither are <hi>all lowly, that stoope low;</hi> for we will know some (for the compassing
+<pb n="4" facs="tcp:3787:5"/>of their owne ends) will <hi>Humble themselues to hell</hi>
+               <note n="(11)" place="margin">Esay 57.9.</note> and some for <hi>feare,</hi> or in <hi>fraude,</hi> will <hi>crouch and bowe</hi> to the very <hi>ground</hi>
+               <note n="(12)" place="margin">Psal. 10.16.</note> but these in all their <hi>abasements</hi> are <hi>very Base,</hi> and notoriously wicked: for they are</p>
+            <p>But
+<list>
+                  <item>
+                     <hi>Formallie, Humble</hi> as <hi>Ciuilists,</hi>
+                  </item>
+                  <item>
+                     <hi>Superstitiouslie, Humble</hi> as <hi>Papists,</hi>
+                  </item>
+                  <item>
+                     <hi>Hypocriticallie, Humble</hi> as <hi>Dissemblers,</hi>
+                  </item>
+                  <item>
+                     <hi>Artificiallie Humble</hi> as <hi>Lyars,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But the <hi>Truely Humble</hi> are <hi>Humble, Non ex Tristitia, non ex. Necessitate, sed spontè et voluntarie.</hi>
+               <note n="(13)" place="margin">Bern. <hi>sup. Cant. Ser.</hi> 34. <hi>fol.</hi> 141. <hi>lit, L.</hi>
+               </note> Not because they are full of <hi>Heauines;</hi> but out of an hearty affection to <hi>Holines,</hi> Not because Necessitie is layd vppon them by reason either of <hi>Emminent Danger</hi> or <hi>Euident Euill,</hi> but rather because they see, <hi>That in themselues there is No Good.</hi>
+            </p>
+            <p>This is not <hi>Pietie Porforce</hi> which makes a faire shewe in <hi>Passiue Humilation,</hi> but it is An Act of <hi>A willing mind,</hi> whereby <hi>A man from the true knowledge of himselfe is vile in his owne eyes.</hi>
+               <note n="(14)" place="margin">Bern. <hi>de</hi> 12. <hi>gradibus Humil. in prae<g ref="char:EOLhyphen"/>fat. Tract. fol.</hi> 259 <hi>col.</hi> 4. <hi>lit. A</hi>
+               </note> — <hi>Humiliation</hi> and <hi>Humilitie</hi> are alike in <hi>Sound,</hi> but they differ in <hi>Sense,</hi> for the one is but <hi>The way,</hi> to the Other.
+<note n="(15)" place="margin">Lud. <hi>Gra<g ref="char:EOLhyphen"/>natensis post. con in fest. beati Ma<g ref="char:EOLhyphen"/>thiae, pag.</hi> 38. <hi>tom.</hi> 2. <hi>in</hi> 8 <hi>to.</hi>
+               </note> In the which whilest <hi>Pharaoh</hi> and <hi>Ahab</hi> walked,
+<note n="(16)" place="margin">Exod. 8.8. 1. King. 21.27.29.</note> yet thereby were they not <hi>Iustified,</hi> no nor reputed <hi>Humble,</hi> there was no <hi>Contempt or Loathing of their owne proper excellence,</hi> which is <hi>True Humilitie:</hi> This if they had beene endued with, then they would with <hi>Ezra haue beene Confounded and Asha<g ref="char:EOLhyphen"/>med</hi>
+               <note n="(17)" place="margin">Ezra, 9.6.</note> with <hi>Iob,</hi> they would haue <hi>Abhorred themselues in Dust and Ashes.</hi>
+               <note n="(18)" place="margin">Iob, 42.5.6.</note> nay with Saint <hi>Paul,</hi> they would haue held themselues to bee <hi>The Least of All Saints</hi>
+               <note n="(19)" place="margin">1 Cor. 15.9</note> and <hi>The Greatest of All Sinners,</hi>
+               <note n="(20)" place="margin">1. Tim. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> for herein doth indeed stand the very vigour and vertue of <hi>Humilitie,</hi> which hath as Saint <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> noteth,</p>
+            <p>Three degrees
+<list>
+                  <item>1. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>Superiori Subdi.</hi>
+                  </item>
+                  <item>2. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>Equali non praeferri.</hi>
+                  </item>
+                  <item>3. <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>Minori Subdi, potius quàm praeponi</hi>
+                     <note n="(21)" place="margin">Bern. <hi>sent. fol.</hi> 113. <hi>col.</hi> 1. <hi>lit. G.</hi>
+                     </note>
+                  </item>
+               </list>
+            </p>
+            <p>First <milestone type="tcpmilestone" unit="unspecified" n="1"/> To submit our selues to our betters, as being carried a<g ref="char:EOLhyphen"/>way neither by enuie nor ambition, because of his Excellencie, or Eminencie: Secondly. <milestone type="tcpmilestone" unit="unspecified" n="2"/> To giue place to our Equalls, as not carried away with an vnlawfull appetite to be preferred before
+<pb n="5" facs="tcp:3787:5"/>him. Thirdly, To yeeld vnto our Inferiours rather then to pre<g ref="char:EOLhyphen"/>sume aboue them. This is the <hi>Humilitie</hi> that our <hi>Sauiour</hi> points at in that parable, Luk. 14.10. where he wills vs, <hi>Recumbere in Nouissimo loco, To sit in the Lowest roome,</hi> where if the Ma<g ref="char:EOLhyphen"/>ster of the Feast sees vs on Earth, he will bid vs <hi>Sitt vp Higher,</hi> euen in <hi>Heauen;</hi> And This is the <hi>Highest pitch of Honor</hi> that we can attaine vnto, and the plainest path we can walke in, for the obtaining of it. <hi>Humble</hi> &amp;c. <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> Yea but some will say <hi>That it is a Dangerous Descent; The way is Narrow and the Gate is Lowe.</hi>
+            </p>
+            <p>It is so indeed: And therefore we must both <hi>Strip and Stoope:</hi> 1. <label type="milestone">
+                  <seg type="milestoneunit">Solut. </seg>1</label>
+               <hi>Stripe, Augusta est enim porta caeli, qua onerati intrare non possumus, prestat igitur Nudum saluari, quàm vestimentis et calciamentis ornatum in ignem oeternum damnari</hi>
+               <note n="(22)" place="margin">
+                  <hi>Stella in Luc.</hi> 13.24. <hi>Tom.</hi> 2. <hi>fol.</hi> 10. <hi>Col.</hi> 2. <hi>in finem.</hi>
+               </note> For the way is Narrow, which many of our Gallants with their orna<g ref="char:EOLhyphen"/>ments of the <hi>Slippers, and the Caules the round tires. The Sweete balles, Bonets and Bracelets, The Tires of the Head and the Stopes, The Head-bands and the Tablets, and the Eare-rings. The Rings and the Mufflers, the Costlie apparell and the vailes, and the wimples and the Crisping-pinnes, and the Glasses, and the fine Lin<g ref="char:EOLhyphen"/>nen and the Hoodes and the Lawnes</hi>
+               <note n="(23)" place="margin">Esay 3. av. 18. <hi>ad</hi> 24.</note> with these they can<g ref="char:EOLhyphen"/>not enter: It were better therefore to be saued <hi>Naked,</hi> then with all these <hi>odd, apish</hi> and <hi>anticke ornaments</hi> to be turned into <hi>Tophet.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And as we must <hi>Strip:</hi> so must we <hi>Stoope</hi> also, for the <hi>Gate is Lowe. Within,</hi> indeed are <hi>Many Mansions</hi>
+               <note n="(24)" place="margin">Ioh. 14.2.</note> but yet the Gate vnto it is exceeding <hi>Lowe,</hi> the <hi>Entrie Narrow,</hi> the <hi>Passage Straight:</hi> It is the <hi>Gate of Humilitie.</hi> A man that beares vp himselfe <hi>Aloft</hi> in the <hi>Pride of his owne Heart,</hi> and that <hi>Leaneth to his owne wisedome</hi> and that <hi>Flattereth himselfe in his owne Goodnes,</hi> that was neuer <hi>beaten downe by the terrour of the Lawe and the due beholding of Gods Iustice,</hi> such an one can neuer <hi>Enter in Here;</hi> this <hi>Gate</hi> is too <hi>Lowe</hi> for his <hi>Haughtie Heart and High Looke. Humble your selues there<g ref="char:EOLhyphen"/>fore.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label>
+               <hi>But if there be no way but this, How then may I treade this Tract?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> Why let Saint <hi>Bernard</hi> be our <hi>Guide,</hi> who tells vs that there be,</p>
+            <pb n="6" facs="tcp:3787:6"/>
+            <p>Foure things which bring vs to <hi>Humilitie.</hi>
+               <list>
+                  <item>1. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>Vilitas Operis.</hi>
+                  </item>
+                  <item>2. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>Assiduitas Subiectionis.</hi>
+                  </item>
+                  <item>3. <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>Comparatio Melioris.</hi>
+                  </item>
+                  <item>4. <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>Iudicium Conditoris.</hi>
+                     <note n="(25)" place="margin">B<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rn. <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>enten. fol.</hi> 113 <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ol.</hi> 4 <hi>Lit.</hi> 1.</note>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> The first is the <hi>Vnworthynes of the worke,</hi> of whose <hi>Righte<g ref="char:EOLhyphen"/>ousnes</hi> if the Prophet doth no better esteeme then of <hi>A Filthy Clout,</hi>
+               <note n="(26)" place="margin">Isay. 64.6.</note> oh what is our <hi>Vnrighteousnes?</hi> surely, vile indeede. <hi>Euen as the Filthines of the Menstrous.</hi>
+               <note n="(27)" place="margin">Ezech. 36.17. Leu. 15.15.33</note> Then which <hi>No<g ref="char:EOLhyphen"/>thing can be more filthy,</hi>
+               <note n="(28)" place="margin">
+                  <hi>Glosa in</hi> Exech. 36.17.</note> saith the <hi>Glosse,</hi> therefore <hi>Let vs be Humble.</hi>
+            </p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Let our Daylie Subiection</hi> bring vs downe. How liable are we euery moment &amp; minute in our <hi>Highest</hi> estates to be brought <hi>Lowe.</hi> Now perhaps <hi>Stalking</hi> with <hi>Nebuchadnezar</hi> on our <hi>High Turrets</hi>
+               <note n="(29)" place="margin">Da. 31.</note> but ere long it may be <hi>Driuen from Men, and Eating Grasse as the Oxen.</hi>
+               <note n="(30)" place="margin">Dau. 1.29.</note> Now perchance, <hi>Drinking wine in Bowles, yea in the Golden vessells of the Temple with Belshezzer.</hi>
+               <note n="(31)" place="margin">Dan. 5.2.</note> but a <hi>Non,</hi> it may be <hi>Our countenances may be Charges &amp; our Thoughts Troubled, our Ioynts Loosed, and our Knees smitten.</hi>
+               <note n="(32)" place="margin">—Ver. 6.</note> Now peraduenture, <hi>Clothed in Purple and fine Linnen, and faring well, and Delicately euery day, with Diues.</hi>
+               <note n="(33)" place="margin">Luk. 16.19.</note> But ere long it may be, layd <hi>Lowe enough,</hi> euen in <hi>Hell Tor<g ref="char:EOLhyphen"/>ments</hi>
+               <note n="(34)" place="margin">V. 23.</note> This is the Change that some are Subiect vnto, and Therefore Let vs <hi>Humble our Selues.</hi>
+            </p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> Let vs <hi>Compare our selues with our Betters,</hi> and see how <hi>Short</hi> we come of <hi>Many in Grace,</hi> whom we exceede per<g ref="char:EOLhyphen"/>hapes in <hi>Goods.</hi> In which case <hi>Comparisons are not Odious</hi> as saith the Prouerbe, but rather <hi>Acceptable and Comfortable:</hi> for hereby as in a <hi>Glasse</hi> we shall see our <hi>Blotts and Spotts;</hi> we shall behold how <hi>Short</hi> we come of <hi>Many,</hi> how <hi>Weake</hi> we are in res<g ref="char:EOLhyphen"/>pect of <hi>Other,</hi> whom seeing <hi>So farre exceedeing in Excellencie,</hi> it must needes be a meanes <hi>To Humble vs.</hi>
+            </p>
+            <p>Which if we would that it should, then in the Fourth and Last place, <milestone type="tcpmilestone" unit="unspecified" n="4"/> let vs with a <hi>Single eye and Simple heart looke vnto the Iudgment of the Iust, euen of God, the Lord righteous,</hi> in whose <hi>euen Scales</hi> if he should put our <hi>sins</hi> and <hi>sanctitie</hi> oh how would the <hi>mountaines</hi> of the one, downe-weigh the <hi>mites</hi> of the other! for which if <hi>God should enter into Indgment, who were able to stand?</hi>
+               <pb n="7" facs="tcp:3787:6"/>surely no body, And therefore <hi>let vs be Humble.</hi>
+            </p>
+            <p>And must we thus <hi>Humble our selues?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label>
+               <hi>Quid igitur in tumescis Homo,</hi> ô <hi>pellis morticiua quid tenderis?</hi> ô <hi>Sanies faeda, quid infla<g ref="char:EOLhyphen"/>ris? Princeps tuus Humilis est Tu superbus? Caput est Humile, et Membrum Superbum?</hi>
+               <note n="(35)" place="margin">
+                  <hi>Perald<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> de Beatudinibr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Tom.</hi> 1. <hi>pars.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> cap.</hi> 2. <hi>pag.</hi> 659 <hi>col.</hi> 1. <hi>in</hi> 8uo.</note> Why then swellest thou so sore? oh thou dead skinne why stretchest thou thy selfe? oh thou sil<g ref="char:EOLhyphen"/>thy putrifaction, why blowest thou vp thy selfe? Is thy Prince humble, and wilt thou that art but a Peasunt be proud? Is thy <hi>head hunge</hi> downe and wilt thou that art but a member be <hi>sett vp?</hi> oh foolish madnes or mad follie, such as the very <hi>Heathen</hi> themselues haue held, <hi>Admirable, Detestable, Punishable, nay Damnable.</hi> Why then lookest thou so <hi>high thou proud professor?</hi> why? euen because I am <hi>holyer then thou.</hi> This I would confesse; but that I see <hi>pride in thy heart, pride in thy habit; pride in lookes, pride in thy deuotions; pride in all thy actions;</hi> &amp; therfore I fearefully suspect that <hi>thou art not so holy as thou sayst or wouldst seeme to be.</hi> For as in <hi>things naturall, Ille altius ascendūt quae sunt Laeuiores.</hi> &amp;c
+<note n="(36)" place="margin">
+                  <hi>Hector Piutas in Na hum</hi> 3. <hi>fol</hi> 246. <hi>col.</hi> 2. <hi>Lit. S.</hi>
+               </note> The lightest things ascend loftiest, and the heauiest lye lowest, (as we haue experience in the <hi>Earth and Aire:</hi> in the <hi>Water and Fire:</hi>) So, so is it with men that are <hi>good Christians indeede. The more holy the more Humble.</hi> An <hi>Eare of Corne</hi> the <hi>fuller</hi> it is, hangs <hi>downeward,</hi> but the <hi>lighter</hi> it is, the <hi>higher</hi> it is <hi>exalted.</hi>
+               <note n="(37)" place="margin">
+                  <hi>Tho. de Trugillo post Domine</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <hi>post Penticost Tom.</hi> 1 <hi>fol.</hi> 553.554.555.</note> The <hi>Bow of a Tree,</hi> by how much the better it is laden with <hi>Frute;</hi> by so much the <hi>lower</hi> it hangs to the <hi>ground:</hi> Euen so is it with the <hi>Humble, Humilis deijcit seipsum, quia Ple<g ref="char:EOLhyphen"/>nus est virtutibus cum sapientia coniunctis.</hi>
+               <note n="(38)" place="margin">Hector Pintus vbi su<g ref="char:EOLhyphen"/>pra.</note> They will deiect themselues because their fulnes of vertue is royned with wise<g ref="char:EOLhyphen"/>dome, but the proud are like an emptie Eare, or a well leau'd Tree, which perkes vp and flutters about with a <hi>bare profession</hi> without any <hi>holy sincere</hi> or <hi>humble action:</hi> but I heartily be seech such <hi>painted Peacoks and white Swannes</hi> that they would no longer looke vp on <hi>their fine feathers</hi>
+               <note n="(39)" place="margin">
+                  <hi>Plin. Nat. Hist. pars.</hi> 1. <hi>lib.</hi> 10. <hi>cap.</hi> 20.</note> but that they would also looke downe on their <hi>foule feete,</hi> vnto which if they would attend and assent. I would neuer feare but that they would proue as <hi>good</hi> hereafter, as they are <hi>glorious</hi> now.</p>
+            <p>But as <hi>some of the Pharisees</hi> which heard Christ speake of <hi>blindnes,</hi> sayd vnto him, <hi>Are we blind also?</hi>
+               <note n="(40)" place="margin">Ioh. 90.4.</note> so may some
+<pb n="8" facs="tcp:3787:7"/>
+               <hi>Professours</hi> say vnto the <hi>Preacher, Are we proud also?</hi> for my part I will <hi>acuse</hi> none, neither can I <hi>excuse</hi> some, of whom if I should iudge according to their <hi>high lookes</hi> I should surely say <hi>they were proud.</hi> And why may not a <hi>Preacher</hi> lesse shame to <hi>call pride, pride</hi> in a <hi>Sermon,</hi> then a <hi>professor to practise it in all his Suites and Seruices?</hi> yea but herein the <hi>wiser sort</hi> would wish vs not to be too <hi>rash,</hi> neither is it good indeede so to be; yet as o<g ref="char:EOLhyphen"/>ther men in their <hi>Arts</hi> and <hi>Occupations</hi> trust to what they haue tryed to be true, so <hi>we</hi> also.</p>
+            <p>
+               <hi>Physitians</hi> ghesse of the <hi>Disease</hi> by the <hi>Symtomes, Husband<g ref="char:EOLhyphen"/>men</hi> iudge of the <hi>weather</hi> by the <hi>face</hi> of the <hi>Skie: Time obseruers trust</hi> to the <hi>Motion</hi> of the <hi>Wheele,</hi> by the <hi>pointing</hi> of the <hi>Index:</hi> And as truely may a man ghesse, iudge and obserue <hi>the hearts pride by the high looke;</hi> yea, and as we finde in what <hi>Inne</hi> a man is <hi>lodged</hi> by the <hi>Signe:</hi> so we may know whether <hi>pride</hi> hath taken vp her <hi>lodging</hi> in the <hi>heart,</hi> by the <hi>signe of the looke.</hi>
+               <note n="(41)" place="margin">
+                  <hi>Mr. Hak<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wills Ser<g ref="char:EOLhyphen"/>mons in</hi> Psal. 161. Ver. 5. pag. 196. <hi>in</hi> 4to.</note> Doe ye therefore with <hi>Iob,</hi> couenant with your eyes.
+<note n="(42)" place="margin">Iob. 31.1.</note>
+               <hi>Against proud Lookes,</hi> as he did with <hi>his</hi> against <hi>filthy Lusts;</hi> for in them, or by them the pride of the heart is easily betrayd or bewrayd.
+<note n="(43)" place="margin">
+                  <hi>Fabritius in</hi> Psal. 131. <hi>con. ejo</hi> 6. <hi>fol.</hi> 373. <hi>col.</hi> 2.</note>
+               <hi>Humble your selues therefore;</hi> which if you disdaine to learne of Man, yet learne it of <hi>God,</hi> who humbled himselfe from <hi>heauen</hi> to <hi>earth,</hi> to exalt you from <hi>earth to heauen:</hi> let vs therefore <hi>treade his tract,</hi> for as Christ ceased not to be a <hi>King</hi> because he was <hi>like a seruant;</hi> nor to be a <hi>God</hi> because he was <hi>made Man;</hi> nor to be a <hi>Iudge</hi> because hee was <hi>Iudged:</hi> so <hi>man</hi> shall loose no <hi>honor</hi> by being <hi>Humble,</hi> but he shall be as assuredly <hi>honored</hi> for his <hi>humilitie,</hi> as that <hi>son</hi> was <hi>honored</hi> when he was <hi>Humbled</hi> Luk. 15.8. for <hi>humilitie</hi> is <hi>honors vsher,</hi> as <hi>honor</hi> is its <hi>shadowe.</hi>
+            </p>
+            <p>
+               <hi>Riuers</hi> are seldome seene to ascend to the <hi>mountaines,</hi> but they are expected in the <hi>lowe vallies:</hi> and if any of vs haue beene but <hi>bedewed</hi> with the <hi>dewe</hi> descending <hi>Hermons hill</hi> it will bring forth frute In
+<list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>Obedience.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>Penitence.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>Patience.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <hi>Reuerence.</hi>
+                  </item>
+               </list> which are the sure signes of <hi>humilitie.</hi>
+            </p>
+            <p>And when you see <hi>lordan driuen backe,</hi> watering the <hi>moun<g ref="char:EOLhyphen"/>taine</hi>
+               <pb n="9" facs="tcp:3787:7"/>and leauing the <hi>Vallies,</hi> then say THAT A PROVN MAN MAY BE GRACIOVS. That is one of the <hi>wonders</hi> of the <hi>word,</hi>
+               <note n="(44)" place="margin">Psal. 114.3.</note> And this may bee one of the wonders of the <hi>world:</hi> and yet it is now no maruell to see such <hi>professing</hi> (I dare not say <hi>professing</hi>) <hi>religion</hi> (for feare least their <hi>pride</hi> should giue me the <hi>lye</hi>) to whom I will say no more but this, <hi>Humble your selues therefore.</hi>
+            </p>
+            <p>And was there <hi>euer</hi> a time that called for this grace of <hi>humi<g ref="char:EOLhyphen"/>litie?</hi> oh then <hi>this</hi> is the time and <hi>these</hi> are the dayes, let <hi>pride</hi> therefore haue a <hi>Fall,</hi> yea <hi>let vs fall downe and kneele before the Lord our maker</hi>
+               <note n="(45)" place="margin">Psal. 95.6.</note> for hee commeth, <hi>to resist the proud</hi> and <hi>to giue grace to the humble. Humble your selues, &amp;c.</hi>
+            </p>
+            <p>I haue read it recorded by Saint <hi>Basil.</hi> That there was a <hi>Sea<g ref="char:EOLhyphen"/>birde</hi> that <hi>made her Nest in the waters,</hi> and when she had bred <hi>there</hi> then was there a <hi>generall calme throughout the Ocean.</hi>
+               <note n="(46)" place="margin">Basil. <hi>de Paenit concio.</hi> 9.</note> oh that we had some more <hi>Birds of that feather,</hi> and would God that all our <hi>painted Peacockes and white Swannes</hi> which now with their glittering collours iett it, and stalke it, and bridle it, were yet more <hi>Humble,</hi> for then I am perswaded that the storme would cease, and we should not be <hi>slaine in his wrath, nor vex<g ref="char:EOLhyphen"/>ed in his sore displeasure.</hi>
+            </p>
+            <p>How lately haue we seene, and how lamentably doe we yet feele the stroakes of all the Creatures of the earth, which take vp armes against vs, and God himselfe shewes himselfe <hi>Generall of the Field,</hi> in whose <hi>Brest-plate</hi> who sees not, in Capitall letters the <hi>Motto</hi> of that <hi>Romane Emperour</hi> of whom <hi>Suetonius</hi> repor<g ref="char:EOLhyphen"/>teth, which was</p>
+            <p>GLADIVS et PVGIO.
+<note n="47)" place="margin">
+                  <hi>Suetonius. lib.</hi> 4. <hi>Sect.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. <hi>in finem pag.</hi> 26. <hi>in</hi> 16.</note> and therein the <hi>names</hi> of such as were appointed vnto <hi>death.</hi> Which seeing shall wee still remaine <hi>proud, disobedient, and rebellious?</hi> oh Godforbid, but rather let vs <hi>Humble our selues.</hi>
+            </p>
+            <p>
+               <hi>Eusebius</hi> reporteth, That in the feast of <hi>Pentecost</hi> the <hi>Priests</hi> going into the <hi>Temple</hi> of <hi>Ierusalem</hi> in the night season, and that <hi>to sacrifice,</hi> they heard a <hi>commotion</hi> of this voyce <hi>following.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Let vs goe hence, let vs fly from the wrath of God, for it is terrible, for it is fearefull.</hi>
+               <note n="(48)" place="margin">
+                  <hi>Eusebius Hist, Ecelicah. lib.</hi> 3. <hi>cap.</hi> 8. <hi>fol.</hi> 40. <hi>Anglice</hi>
+               </note> And what haue we heard, what haue we seene, and what are wee like to feele, but <hi>woe and wrath?</hi> his
+<pb n="10" facs="tcp:3787:8"/>
+               <hi>Sword and Poiniard,</hi> for though Gods Arrowes of <hi>Plague and Pestilence</hi> are called backe, and that he hath put <hi>those</hi> vp in his <hi>Quiuer,</hi> yet hath he <hi>sundry and soarer Iudgements</hi> of an other kinde, euen <hi>Famine, Battle, Murther and sudden Death,</hi> from which shall we say, <hi>that we will flye?</hi> No, no, our <hi>Icarian wings</hi> are but <hi>waxen,</hi> and if the heate of Gods wrath waxe <hi>feruently hot,</hi> it will quickly <hi>melt</hi> them, and make vs <hi>sincke</hi> into the <hi>Ocean</hi> of his <hi>Anger.</hi> If therefore <hi>to day wee will heare his voyce, let vs not harden our hearts, let vs not cherish our proud lookes, let vs not maintaine our high stomackes, but let vs abide here, and humble our selues.</hi> I may seeme too tedious in this argument, but be<g ref="char:EOLhyphen"/>cause I finde it to be the <hi>foundation of Wisedome.</hi>
+               <note n="(49)" place="margin">Chryso. <hi>Hom. deperfect. Euang.</hi>
+               </note>
+               <hi>The re<g ref="char:EOLhyphen"/>lisher of grace.</hi>
+               <note n="50)" place="margin">Hier in Loc.</note>
+               <hi>The high way to Honor.</hi>
+               <note n="(51)" place="margin">Pro. 15.33.18.13.14.</note>
+               <hi>And great glory:</hi> I therefore make thus bold to trespasse on your patience, assuring you that there is nothing lost by stepping and stooping downe such a staire as <hi>this of Humilitie,</hi> when as for all such as so do, there is prouided such a degree and measure of <hi>Sublimitie.</hi> In which action let vs all be Agents for our <hi>selues,</hi> for so the Apostle willeth saying,
+<note place="margin">Secunda Imae.</note>
+               <hi>Humble your selues:</hi> which is the second steppe in the Descent, <hi>your selues</hi> I finde neither <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>your selues nor others in the Greeke text,</hi> but yet <hi>Beza</hi> doth render it, <hi>vos ipsos</hi> in the Latine, yea, <hi>your selues</hi> and not <hi>others.</hi>
+            </p>
+            <p>Not <hi>others,</hi> for that were <hi>iniurie;</hi> and you may not doe it: <hi>But your selues,</hi> for that is <hi>humilitie,</hi> and you must <hi>embrace</hi> it.</p>
+            <p>Not <hi>others,</hi> least you should be thought <hi>vncharitable,</hi> but <hi>your selues,</hi> that you may proue <hi>conscionable.</hi>
+            </p>
+            <p>Saint <hi>Augustine</hi> complained of the men of his time, that they were <hi>Curiosi ad cognoscendum vitam alienam, desidiosi ad corri<g ref="char:EOLhyphen"/>gendum suam.</hi>
+               <note n="(52)" place="margin">
+                  <hi>Aug Con<g ref="char:EOLhyphen"/>fess. lib.</hi> 3. <hi>cap.</hi> 10.</note> Curious to correct <hi>other mens infirmi<g ref="char:EOLhyphen"/>ties,</hi> but carelesse to amend <hi>their owne enormities;</hi> and I would to God, we had not cause to say the same of some in our dayes, who loue to be in <hi>action,</hi> yea, and that in <hi>this action</hi> of <hi>Humbling,</hi> but here is the spite; they worke not on a <hi>right obiect,</hi> All that they can imagine, plot, or performe is <hi>to disgrace others</hi> to <hi>iudge others, to condemne others,</hi> and all <hi>to Humble them. A foule pra<g ref="char:EOLhyphen"/>ctise</hi> vnder <hi>a faire pretence,</hi> but we must <hi>Humble our Selues.</hi>
+            </p>
+            <p>And must wee so doe?
+<label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> let vs then hence learne that are either
+<pb n="11" facs="tcp:3787:8"/>
+               <hi>Preachers</hi> or <hi>Professors</hi> a rule of charitie and pietie, that wee are either <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>ignorant of,</hi> or <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>haue too much forgotten,</hi> which is, as the Phi<g ref="char:EOLhyphen"/>losopher writeth, <hi>To knowe our selues.</hi>
+               <note n="53)" place="margin">
+                  <hi>Plutarch in Colaten Tom.</hi> 3.</note> or as our Sauiour speaketh, <hi>To heale our selues.</hi>
+               <note n="54)" place="margin">Luk. 4.23.</note> or as the Apostle hath it, <hi>To examine our selues.</hi>
+               <note n="55)" place="margin">1 Cor. 11.28. 2 Cor. 13.5. Gal. 6.4.1</note> or as my text telleth vs, <hi>To Humble our selues.</hi>
+            </p>
+            <p>Among vs of the <hi>Ministerie</hi> there are too many found who as soone as wee can but get from our <hi>shoppe stoole</hi> into <hi>Moyses chaire, we lay heauie burthens on men, and grieuous to be borne, we lay them on mens shoulders, but wee our selues, will not moue them with one of our singers.</hi>
+               <note n="56)" place="margin">Mat. 23.4.</note> These are such as S. <hi>Chrisostome</hi> nameth <hi>Diligentes &amp; Robusti in prohibitis.</hi>
+               <note n="57)" place="margin">Chrys. <hi>su<g ref="char:EOLhyphen"/>pet</hi> Mat. <hi>hom.</hi> 73. <hi>Tem.</hi> 2.</note> Double dili<g ref="char:EOLhyphen"/>gent, and feircelie forceable in laying the Lawe, the Lawe, and nothing but the Lawe; <hi>A yoake that neither we nor our Fa<g ref="char:EOLhyphen"/>thers were able to beare.</hi>
+               <note n="58)" place="margin">Act. 5.10.</note> But why haue they so much of the Lawe? <hi>Oh to Humble them:</hi> but I aske these <hi>Humblers,</hi> did you euer feele in <hi>your selues</hi> the vnsupportablenes of this burthen? had you euer the waight of it on your <hi>owne shoulders?</hi> no surely I feare, not; for if you had, you would not so oft impose it on <hi>other mens soules. Esaus rough hand</hi> would not be so much <hi>felt</hi> before <hi>Iacobs sweete voyce</hi> be <hi>heard.</hi> Herein I would haue these to heare the Counsell of <hi>Chrysostome,</hi> who saith; <hi>Audiant te homines parua mandantem, &amp; videant te magna facientem.</hi>
+               <note n="59)" place="margin">Chrys. <hi>in non</hi> Absol. <hi>hem.</hi> 43. <hi>Tom.</hi> 3.</note> Let men heare you imposing light burthens and let them see you carrying heauie ones and then will they beleeue you, and be con<g ref="char:EOLhyphen"/>tent to be <hi>Humbled</hi> for Companie. <hi>Babes</hi> are not fit for <hi>burthens</hi> or <hi>Infants</hi> for <hi>meate,</hi> yet if <hi>Nursses</hi> will chewe the one, and <hi>Pa<g ref="char:EOLhyphen"/>stors</hi> will helpe support th'other, they will be the easier to both; but where your <hi>heauie Toungs</hi> are without your <hi>helping hands</hi> there the <hi>burthen</hi> is too <hi>heauie</hi> to beare. Of which as an old <hi>Predi<g ref="char:EOLhyphen"/>cant</hi> complained of the <hi>Confessors</hi> of his time; so may we of ma<g ref="char:EOLhyphen"/>ny <hi>worthy Teachers</hi> of our daies, <hi>Qui graues nimis imponūt, &amp; intol<g ref="char:EOLhyphen"/>lerabiles paenitentias paenitentibus.</hi>
+               <note n="60)" place="margin">
+                  <hi>The. de Tru<g ref="char:EOLhyphen"/>gillo. Thesaurus Concion Feria tercia post Do<g ref="char:EOLhyphen"/>minicam secun<g ref="char:EOLhyphen"/>dam quadragis. Tom.</hi> 1. <hi>fol.</hi> 242. <hi>col.</hi> 2. <hi>lin.</hi> 42.</note> Who impose on their penitents too too grieuous and intollerable penance, which seemes to bee contrarie to Christs, whose <hi>yoake</hi> was <hi>easie.</hi>
+               <note n="61)" place="margin">Mat. 11.28.29.</note>
+               <hi>And burthen light. Non est igitur aequum vt quando Do<g ref="char:EOLhyphen"/>minus est adeo misericors &amp; liberalis, seruus ipse sit Durus, Parons,
+<pb n="12" facs="tcp:3787:9"/>&amp; Auarus.</hi>
+               <note n="26)" place="margin">
+                  <hi>Glossaord. super</hi> Mat. 23.</note> It is not therefore meete, that when the <hi>Ma<g ref="char:EOLhyphen"/>ster</hi> is so <hi>mercifull,</hi> the <hi>seruant</hi> should be so <hi>miserable, sparing</hi> and <hi>penurious,</hi> which in Gods name let it shame such as in<g ref="char:EOLhyphen"/>ioine <hi>Fasts</hi> to their <hi>faithfull ones,</hi> whilst they will Feast, <hi>&amp; drinke Wine in bowles,</hi> which vsually set <hi>sacke-cloth</hi> on some <hi>tender skinnes,</hi> whilst they weare <hi>silkes and Sattins on their owne backes,</hi> which brings <hi>Salomons</hi> old sight to be a new seene. That is, <hi>ser<g ref="char:EOLhyphen"/>uants</hi> (&amp; <hi>Iesuiticall slaues) on horse-backe, (or in Coach-boote) whilst Princes walke as seruants on the ground.</hi>
+               <note n="63)" place="margin">Eccles 10.7.</note> Which because I hope they are found rather in <hi>Rome,</hi> or in <hi>England</hi> among the <hi>Romanists,</hi> then in any of the <hi>Guides</hi> of our people, I will end the <hi>Pastors</hi> part with that <hi>Praedicants</hi> petition, which is this: <hi>Vt scilicet aduersus seipsum nulla vtatur venia, sed se ve<g ref="char:EOLhyphen"/>rum in se iudicem exhibeat; erga Subiectos autem Mitior, &amp; ad dandam pronior veniam sit, quorum opposita isti faciebant.</hi>
+               <note n="64)" place="margin">
+                  <hi>The. de Trugillo. vbi Su pra col.</hi> 1. <hi>lin.</hi> 36.37. &amp;c.</note> That is, that they whippe not themselues with Foxe<g ref="char:EOLhyphen"/>tailes, whilsts they lash others with knottie cords, but that they execute iust iudgement, or sharpe penance on them selues, a &amp; be more sparing of the lash, and giue them a <hi>lenitiue,</hi> choosing ra<g ref="char:EOLhyphen"/>ther first <hi>To Humble themselues.</hi>
+            </p>
+            <p>And now that I haue brusht the <hi>Pastors</hi> Coate, I cannot but bestowe a little rubbing of the <hi>Professors</hi> Garment, which I see so besoyled with <hi>this sinne</hi> also: In these I finde <hi>zeale</hi> enough, if not <hi>too much,</hi> (but not to quench your spirits,) let me not finde fault with the <hi>Matter,</hi> but let me guide you in the <hi>Man<g ref="char:EOLhyphen"/>ner.</hi> Are you <hi>zealous?</hi> yea and be you yet <hi>more zealous,</hi> but withall <hi>Amend;</hi> for we finde among some <hi>zeale</hi> without <hi>discre<g ref="char:EOLhyphen"/>tion greatly humbling, but whom? Not themselues, but others,</hi> that is the mistake, nay the mischiefe, nay the scandall. S. <hi>Paul</hi> seemed to be very angry with such as did <hi>force oshers to be Cir<g ref="char:EOLhyphen"/>cumcised.</hi>
+               <note n="65)" place="margin">Gal. 2.4.</note> Whilst <hi>themselues kept not the Lawe.</hi>
+               <note n="66)" place="margin">Gal. 6.13.</note> And how much would he be offended if he sawe some of our prepo<g ref="char:EOLhyphen"/>sterous <hi>zeale,</hi> which is such as that <hi>Depopulators</hi> will execute Lawes against <hi>sheepe-stealers, Impropriators</hi> will begrudge, yea and deny <hi>Proper tithes to a painefull Paster, Ʋicar or Curat,</hi> And all to <hi>Humble them:</hi> and indeede I am perswaded that if such as thus doe, had hereby brought vs to be as <hi>Lowly in heart
+<pb n="13" facs="tcp:3787:9"/>as lowe in estate,</hi> you should <hi>see an humble Cleargie</hi> indeede: for now many <hi>Patrons</hi> are turnd as very <hi>Latrons,</hi> as <hi>Iulian</hi> himselfe who would robbe the <hi>Primitiue Christians</hi> as they doe the <hi>pre<g ref="char:EOLhyphen"/>sent Clergie,</hi> euen by the letter of the Text, saying: <hi>Your Master saith blessed are the poore.</hi>
+               <note place="margin">(67)</note> He with them, and they with him leaue out, <hi>in spirit,</hi> as hauing with <hi>Simon Magus, No part nor fellowship in it.</hi>
+               <note n="68)" place="margin">Acts 8.2</note> And <hi>poore enough</hi> they will make vs, but for no finister respect I dare say <hi>(but not stand to it)</hi> only I will tell you what they say, <hi>It is to Humble vs.</hi> In which as you loue to be our <hi>Patrous</hi> if with it; you will bee also our <hi>Patterns,</hi> Lord how suddenly and how soundly should wee be <hi>Humbled?</hi> first therefore <hi>Humble your selues.</hi> Be ye Agents in this Action,
+<note place="margin">
+                  <hi>tertia</hi> 1mae.</note> and that because of the ensuing Arguments which are as fol<g ref="char:EOLhyphen"/>lowe,
+<q>
+                  <l>The first implyed in that which goes before. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  </l>
+                  <l>
+                     <hi>Igitur. Therefore.</hi>
+                  </l>
+                  <l>The second <hi>expressed</hi> in that which followes after. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  </l>
+                  <l>
+                     <hi>Potenti manui Dei, The mightie hand of God.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>But first of the first argument: <hi>Therefore,</hi>
+               <note place="margin">
+                  <hi>prma</hi> 3ti<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> euen <hi>therefore be<g ref="char:EOLhyphen"/>cause God resisteth the proud, therefore Humble your selues.</hi>
+            </p>
+            <p>We reade <hi>Exod.</hi> 14.25. that when the <hi>Egiptians</hi> did perceiue that God fought against them, they cryed <hi>we will fly, we will fly, for God fighteth against vs:</hi> so may we say: <hi>we will be humble, we wil be humble, for God fighteth against vs or resisteth vs. Therefore,</hi>
+            </p>
+            <p>This is a <hi>Martiallword</hi> and comes with <hi>Armes and wea<g ref="char:EOLhyphen"/>pons</hi> vpon vs. Now if a man should see a <hi>Lyon</hi> come vpon him, would be not <hi>start?</hi> or a <hi>Giant</hi> come against him, would he not <hi>feare?</hi> but now a <hi>mightier</hi> then either of <hi>these</hi> comes vppon or against vs beeing <hi>proud,</hi> euen <hi>The Lord of hosts, a Lyon of the Tribe of Iudah,</hi> euen <hi>He resisteth the Proud, and therefore we should Humble our selues.</hi>
+            </p>
+            <p>When <hi>Tharoah</hi> was so <hi>proud</hi> as to question <hi>who was the Lord that he should heare his voyce:</hi>
+               <note n="69)" place="margin">Exod. 5.2</note> did not the <hi>Lord resist him?</hi> When <hi>Geliah</hi> was so <hi>impudent</hi> as to <hi>defye the host of Israel</hi>
+               <note n="70)" place="margin">1 Sam. 17.9,<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.50.</note> did not the <hi>Lord resist him?</hi> When <hi>Herod</hi> was so <hi>proud</hi> as to <hi>take the honor due to God vnto himselfe,</hi>
+               <note n="71)" place="margin">Act. 12.22.23.</note> did not <hi>God resist him?</hi> yes yes, his word stands for a lawe which saith, <hi>he that exalteth
+<pb n="14" facs="tcp:3787:10"/>himselfe shall be brought lowe,</hi> Luk, 18.14. <hi>he that is proud shall come to shame.</hi> Pro. 11.2. nay to <hi>destruction.</hi> Pro. 16.19. for <hi>God resisteth him, therefore Humble your selues.</hi>
+            </p>
+            <p>And doth <hi>God resist vs being proud,</hi> who then shall <hi>assist vs?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> none, no not one. Neither <hi>Man, Saint, nor Angell,</hi> neither the <hi>Foules of the aire, nor Fishes of the Sea,</hi> neither the <hi>Beast of the field, nor any thing that creapeth on the earth.</hi> All these shall be at vtter enmitie with the <hi>proud:</hi> oh therefore be thou <hi>Ashamed</hi> of thy <hi>glory</hi> who now <hi>gloriest</hi> in thy <hi>shame!</hi> some are <hi>proud</hi> because of their <hi>beautie,</hi> others because of their <hi>wealth,</hi> some because of their <hi>honor,</hi> others because of their <hi>strength:</hi> And which is a <hi>va<g ref="char:EOLhyphen"/>nitie of vanities,</hi> now adayes most men are proud of that which should be their <hi>shame,</hi> euen of <hi>their apparell.</hi>
+            </p>
+            <p>We reade that the man in whom the plague of <hi>Leprosie</hi> was found, <hi>should haue his clothes rent, his head bare, and should put on a couering on his lippes, and cry: I am vncleane, I am vncleane.</hi>
+               <note n="72)" place="margin">Leuit. 13.45</note> would you not imagine that man to be <hi>madd</hi> that would be <hi>proud</hi> of these markes of his miserie? oh then ye <hi>wilde and vntamed haysers</hi> of England, why doe you thus fly after and flutter in the <hi>fashion</hi> in apparell which is but the demonstration of your miserie, the euident note of your conuiction, the ensigne of your base estate. We reade of <hi>Ieroboams wife,</hi> that she <hi>dis<g ref="char:EOLhyphen"/>guised herselfe that the Prophet might not know her.</hi>
+               <note n="73)" place="margin">2. Kin. 14.2</note> so may we thinke that you disguise your selues <hi>that God might not know you.</hi> I am sure that many of you disguise your selues so long and so much as that <hi>you know not your selues:</hi> for the <hi>seruant</hi> is so so like the <hi>Master,</hi> the <hi>Handmaide</hi> so like the <hi>Mistrisse,</hi> the <hi>Pessant</hi> like the <hi>Prince,</hi> as if there were no difference at all but in the <hi>Precidencie</hi> of place. So vnfitt are your <hi>attires</hi> for your <hi>bodyes,</hi> so vnmeete for your <hi>callings,</hi> and some so contrarie to <hi>nature,</hi> as that one saith wittily, <hi>Hic Mulier,</hi> and <hi>Haec Vir</hi> is now made <hi>Gramaticall construction:</hi> but shall I tell you what the <hi>Graue, Godly and Iuditious</hi>
+               <note n="74)" place="margin">D. <hi>Dauisons</hi> 1. part of the earthly vani<g ref="char:EOLhyphen"/>ties, <hi>soct.</hi> 5. <hi>pag.</hi> 172. <hi>in</hi> 16to.</note> doth iudge of them? <hi>That they are no<g ref="char:EOLhyphen"/>thing but the defects of nature and the ordinarie markes of a proud heart.</hi> And ohyee that are but <hi>earth,</hi> but <hi>flesh,</hi> but <hi>wormes meate,</hi> what cause haue you to bee <hi>proude?</hi> were you not <hi>borne in sinne?</hi> doe you not <hi>liue in miserie?</hi> and shall you not
+<pb n="15" facs="tcp:3787:10"/>
+               <hi>dye in corruption?</hi> and then what cause haue you to bee <hi>proud?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label>
+               <hi>Yea but can we not be fine, or hansome, or of the fashion but that we must be proud?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Solu. </seg>
+               </label> surely I am so affraid of the fraylenes of the <hi>womans sexe</hi> that I thinke they can hardly be so and not bee <hi>proud,</hi> whose <hi>outward attire</hi> is commonly found to be <hi>a true to<g ref="char:EOLhyphen"/>ken of their inward disposition,</hi>
+               <note n="75)" place="margin">D. <hi>Merit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Sermō, of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Sinnets Co<g ref="char:EOLhyphen"/>uertion <hi>in</hi> 4<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>pag.</hi> 37.</note> but take heed all yee whose <hi>speech</hi> is <hi>English, fashion</hi> is <hi>French, behauiour Italian,</hi> that in all these are not found <hi>a beastlie life in a manlie shape:</hi> and beware <hi>that God doth not</hi> (to you daughters of <hi>London</hi> as the daughters of <hi>Ierusalem) visit all such (as are sicke of the fashion) as are clo<g ref="char:EOLhyphen"/>thed in strange apparell.</hi>
+               <note n="76)" place="margin">Zeph<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> To auoide therefore both the <hi>Imputation</hi> and <hi>Imposition</hi> that shall be laid on the <hi>proud,</hi> I would aduise them that professe religion to haue an eye in their <hi>appa<g ref="char:EOLhyphen"/>rell</hi> to these Three things
+<list>
+                  <item>1 <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <hi>Necessitie.</hi>
+                  </item>
+                  <item>2 <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <hi>Honestie,</hi>
+                  </item>
+                  <item>3 <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <hi>Decencie.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For so did the <hi>Gracious women of old</hi> attire, themselues, they were <hi>neate</hi> but not <hi>disguised,</hi> they were very <hi>comelie</hi> but not o<g ref="char:EOLhyphen"/>uer <hi>costlie,</hi> or <hi>curious,</hi> whereby they had enough for themselues, and left somewhat to spare for the <hi>poore,</hi> whose <hi>loines did blesse them because they warmed them with the fleece of their Sheepe.</hi>
+               <note n="77)" place="margin">Iob. 31.2<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Prou. 31.13.2</note> And so walke you, and be not <hi>proud,</hi> so waere yee and be not <hi>proud,</hi> so doe ye and be not <hi>proud,</hi> for <hi>God resisteth the proud, therefore Humble your selues.</hi> And so haue I done with the ar<g ref="char:EOLhyphen"/>gument of Illation by way of resistance and come to the motiue by way of relation implying assistance, in these words.</p>
+            <p>
+               <hi>The Mightie hand of God.</hi>
+            </p>
+            <note place="margin">
+               <hi>Secunda</hi> 3ae.</note>
+            <p>
+               <hi>Might and Maiestie</hi> are argument enough I trowe both to presse to <hi>Humilitie</hi> and also suppresse <hi>Pride,</hi> and here we haue them both, for here is <hi>a God of Maiestie,</hi> and <hi>an hand of might,</hi> or <hi>a mightie Hand.</hi>—But <hi>hath God a Hand?</hi>— As hee hath an <hi>Eye, a Loyne and a Foote,</hi> euen so an <hi>Hand, Loquitur enim Humano modo, quo quis solet Humiliari.</hi>
+               <note n="(78)" place="margin">Gorran<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> bid.</note> For he speakes af<g ref="char:EOLhyphen"/>ter the manner of men, who are wont to be humbled by the hand: which because it is <hi>in operibus organum organorum,</hi>
+               <note n="(79)" place="margin">Arist <hi>de part. anim<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> in euery worke the chiefe instrument, so it is here
+<pb n="16" facs="tcp:3787:11"/>
+               <hi>Metaphorically</hi> applied vnto <hi>God,</hi> who may be said to haue a <hi>hand.</hi>
+               <list>
+                  <item>1 <hi>Ad corrigendum</hi> (i) to Correct.</item>
+                  <item>2 <hi>Ad porrigendum</hi> (i) to Protect.</item>
+                  <item>3 <hi>Ad Erigendum.</hi> (i) to Erect.</item>
+               </list> All which <hi>Hugo Cardinalis</hi> doth make arguments for vs to be <hi>Humbled.</hi> But I am of <hi>Lo<g ref="char:EOLhyphen"/>rmus</hi> mind who saith; <hi>Respexit Petrus precipuè humilitatis Prae<g ref="char:EOLhyphen"/>mium.</hi>
+               <note n="(80)" place="margin">(<hi>Lorinus in</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> That Peter had an eye speciallie to the reward of humilitie which hee giueth or sendeth forth as with <hi>his Hand.</hi> For if it were otherwise to be vnderstoode, then we might say with Saint <hi>Paul.</hi> It is a <hi>grieuous thing to fall into the hands of God</hi>
+               <note n="(81)" place="margin">Heb. 10.31</note> but in this sence oh how <hi>comfortable a thing is it to fall vnder the hand of God!</hi> This Imposition neuer went with<g ref="char:EOLhyphen"/>out a Benediction.
+<note n="(82)" place="margin">Mar. 10.16. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>say 42.6, 49.2.</note>
+               <hi>Qua potenter nos defendit contra furores Diaboli et impiorum, et tandem liberabit gloriose.</hi>
+               <note n="(83)" place="margin">
+                  <hi>Lucas Lo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ius in Epist. Nom.</hi> 3. <hi>post Trinit. pag.</hi> 441. <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n</hi> 8 <hi>to.</hi>
+               </note> Whereby he doth defend vs as with a shield against the fury of the Deuill and his Imps, and at length free vs most gloriously, and <hi>there<g ref="char:EOLhyphen"/>fore wee should Humble our selues.</hi>
+            </p>
+            <p>Looke we into the Church militant here on earth euen from <hi>Noah</hi> till <hi>Now,</hi> and see if the <hi>mightie hand of God</hi> hath not ap<g ref="char:EOLhyphen"/>peared both in <hi>Power and Prouidence;</hi> yea of both these <hi>hands</hi> we may say with the <hi>Psalmist: The right hand of the Lord hath brought mightie things to passe, the right hand of the Lord hath the Preheminence, the right hand of the Lord hath gotten himselfe the Victorie</hi>
+               <note n="(84)" place="margin">Psal. 118.15.16.</note> It hath beene well seene and felt too, <hi>how mighty</hi> it hath beene to <hi>saue and to destroy,</hi> how <hi>mightie to protect and to confound,</hi> how <hi>mightie to sell and to redeeme.</hi> What <hi>hand</hi> but <hi>the mightie hand of God</hi> could haue <hi>drowned Pharoah and saued Mo<g ref="char:EOLhyphen"/>ses and Aron and all Israel?</hi>
+               <note n="(85)" place="margin">Exo. 14.27. Psal. 106 10.11.</note> What <hi>hand</hi> but <hi>a mightie hand</hi> could haue <hi>dryed the Sea, softned the Rockes, Turned the Riuers into bloud; stayed the Sunne; darkned the Moone, and made the whole Earth to tremble?</hi> What <hi>hand but the mightie hand of God</hi> could haue brought <hi>darknes</hi> out of the <hi>light, Pro<g ref="char:EOLhyphen"/>testancie out of Poperie, in England and Germanie?</hi> What <hi>hand but the mighty hand of God</hi> could haue <hi>discomforted an Armado, by Sea,</hi> and <hi>discouered a Pouder Plot by Land?</hi> what <hi>hand but the mighty hand of God</hi> could haue <hi>stayed so sore a Plague so sud<g ref="char:EOLhyphen"/>denly,</hi> as that in 13. <hi>weekes</hi> to bring the <hi>number</hi> of 4463. <hi>of the
+<pb n="17" facs="tcp:3787:11"/>Plague,</hi> to bee but 181. <hi>of all diseases?</hi>
+               <note n="(86)" place="margin">London August. 11. to the 18. 4463. <hi>Anno.</hi> 1625. London. De<g ref="char:EOLhyphen"/>cemb. 1. to the 8. the same the yeare. 18</note> And are not these arguments enough <hi>to Humble vs?</hi>
+            </p>
+            <p>Yes, yes, let it in the feare of God both <hi>Strike and Strengthen vs.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Strike vs into a feare.</hi>
+               </item>
+               <item>2 <hi>Strengthen vs by his fauour.</hi>
+               </item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>2</label> In the first there is <hi>Power,</hi> in the second there is <hi>Prouidence.</hi> For th'one, <label type="milestone">
+                  <seg type="milestoneunit">sol </seg>1</label> he is proclamed to be <hi>Iehouah, Iehouah, Strong.</hi>
+               <note n="(87)" place="margin">Exo. 34.6</note> Into whose hands, <hi>into whose reuengefull hands, is it not a fearefull thing to fall?</hi>
+               <note n="(88)" place="margin">Heb. 10.31</note> Yes verely, so <hi>fearefull</hi> is it, as that the wicked shall wish that they had <hi>wings to fly from his presence,</hi> but that cannot be; nay they shall crye to the <hi>Hils</hi> and to the <hi>Mountaines to hide and to couer them,</hi> but <hi>that</hi> they shall not haue. Oh therefore let this <hi>strike vs into a filiall feare,</hi> that hee may <hi>strengthen vs</hi> with his <hi>fatherly fauour,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> for <hi>so</hi> if his <hi>Power</hi> work on vs, <hi>so</hi> euen also shall his <hi>prouidence</hi> work for vs. In which he hath also proclamed himselfe <hi>mercifull, gracious, slowe to anger, and of great kindenesse.</hi>
+               <note n="(89)" place="margin">Exo. 34.6.</note> Yea in all these he shewes him<g ref="char:EOLhyphen"/>selfe to be as we daily confesse, <hi>Almightie and most mercifull.</hi> And therefore though wee be set with Enemies on euery side with the <hi>world, Tanquam Syren dulcis,</hi> like an alluring <hi>Mirmaide;</hi> with the <hi>Flesh, Tanquam Dalila blandiens,</hi> like a false flattering <hi>Dalilah;</hi> with the <hi>Deuill, Tanquam Leorugiens;</hi> like a <hi>roaring Lyon.</hi>
+               <note n="(90)" place="margin">
+                  <hi>Bosquierus Iesuit de victo<g ref="char:EOLhyphen"/>ria christin pag.</hi> 567.</note>
+            </p>
+            <q>Presentemque viris intendunt omnia mortom.
+<note n="*" place="margin">Virgil. Ene<g ref="char:EOLhyphen"/>id. lib.</note>
+            </q>
+            <p>Yet we neede not feare any of them, if we will be but <hi>Hum<g ref="char:EOLhyphen"/>ble vnder Gods mightie hand.</hi> In which if any desire to be either more strongly confirmed or more sweetly comforted, I will but only referre him to the Euangelicall Prophet, <hi>Esay chap.</hi> 31. Throughout, And so leaue descending by these steppes of sub<g ref="char:EOLhyphen"/>iections; and set our faces towards that Ascent of Eleuation or Exaltation, which here saith.</p>
+            <q>And he shall exalt you in due time.
+<note place="margin">Pars. secunda Gener. Subdi<g ref="char:EOLhyphen"/>nis.</note>
+            </q>
+            <p>Wherein we haue to note
+<list>
+                  <item>1 <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Author, <hi>He.</hi>
+                  </item>
+                  <item>2 <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Honour, <hi>Shalt exalt you.</hi>
+                  </item>
+                  <item>3 <milestone type="tcpmilestone" unit="unspecified" n="3"/> The time, <hi>In due time.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="18" facs="tcp:3787:12"/>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>He] Not you your selues; He; not Chance, or Fortune, but He, and He alone.</hi>
+            </p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Shall Exalt] Not treade downe, or trample ouer; but lift vp and set on high.</hi>
+            </p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>In due time] Not perhaps in a time expected, prayed for, or heartily wished after; but then when it shall be more fit, more sea<g ref="char:EOLhyphen"/>sonable, and more comfortable, euen in Due time,</hi> for so hee saith,</p>
+            <p>
+               <hi>And He shall exalt you in Due time</hi>— And so let vs returne to doe our homage to <hi>Him</hi> that will so doe for vs, which is the <hi>Lord;</hi> He <hi>shall exalt.</hi>
+               <note place="margin">
+                  <hi>Prima.</hi> 2dae.</note>
+            </p>
+            <p>The Apostle telleth vs, <hi>That there is no power but of God</hi>
+               <note n="(91)" place="margin">Rom. 13.1</note>
+               <hi>The</hi> Prophet assureth vs, <hi>That there is no promotion from the East or from the West, or from the South.</hi>
+               <note n="(92)" place="margin">Psa. 104.28.</note> And wisedome <hi>it selfe</hi> auoucheth, <hi>That by her, Kings raigne, and Princes decree Iu<g ref="char:EOLhyphen"/>stice.</hi>
+               <note n="(93)" place="margin">Pro. 8.15.16.</note> And my Text telleth that <hi>He exalteth.</hi>
+            </p>
+            <p>And if it be <hi>He</hi> that doth it, why then boastest thou thy selfe, <hi>thou Atheist,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> or <hi>Hereticke, thou Papist</hi> or <hi>Pagan,</hi> as though <hi>thou by thy might</hi> or <hi>power, by thy wit or worth,</hi> didst adde any one Cubite to thy stature, one mite to thy millions, one graine to thy <hi>Gra<g ref="char:EOLhyphen"/>ces?</hi> No, no, thou canst not; without <hi>Me</hi> (saith Christ) <hi>ye can doe nothing.</hi>
+               <note n="(94)" place="margin">Ioh 15.5.</note> And without God (saith the <hi>Apostle</hi>) <hi>you can haue nothing.</hi>
+               <note n="(95)" place="margin">1 Cor. 4.7.</note> The <hi>wise</hi> and <hi>wealthy men</hi> of the world that in their greate estate doe <hi>Sacrifice to their owne nets,</hi> may therefore be fitly cōpared to Saint <hi>Augustines Wisard,</hi> who is said by him <hi>To make choise of a certaine houre of sleeping with his con<g ref="char:EOLhyphen"/>sort, at which time he would propose to himselfe, to beget Filium mirabilem.</hi>
+               <note n="(96)" place="margin">
+                  <hi>Aug. de Ci<g ref="char:EOLhyphen"/>uit. del. lib.</hi> 5. <hi>cap</hi> 5. <hi>in finem.</hi>
+               </note>
+               <hi>A sonne whose worth the after world should ad<g ref="char:EOLhyphen"/>mire.</hi> And so doe these indeede make themselues <hi>admired</hi> also, because that in all that they either <hi>Doe,</hi> or <hi>Haue,</hi> they looke not vp vnto <hi>Him</hi> that is the <hi>Sole Authour and giuer of all things,</hi> but out of the <hi>pride</hi> of their <hi>hearts,</hi> they boast and blesse themselues in their <hi>Care and study, power and pollicie, labour and endeauour.</hi> but what saith the <hi>Psalmist? Except the Lord build the house, they labour invaine that build it: Except the Lord keepe the Cittie, the watchman waketh in vaine.</hi>
+               <note n="(97)" place="margin">Psal. 127.1.</note> And I say, <hi>Except the Lord Exalteth</hi> they shall surely be pulled downe with <hi>Saul,</hi> or han<g ref="char:EOLhyphen"/>ged, vp with <hi>Haman,</hi> for as he giues them <hi>In his Anger;</hi> so he
+<pb n="19" facs="tcp:3787:12"/>takes them away <hi>In his wrath.</hi>
+               <note n="(98)" place="margin">Hosea 13.11.</note> Let vs not then either in our <hi>Endowments</hi> or <hi>Enioyments,</hi> say, <hi>Thus haue I gotten by the might of my power, &amp;c.</hi> But let vs rather looke vp vnto God who hath so powred out his <hi>blessings</hi> on vs, that we ought to giue our <hi>blessings</hi> vnto him; And as men that beares the <hi>greatest burthen, stoope lowest:</hi> so let vs that enioye the <hi>Greatest honours</hi> be the <hi>Humblest, blessing the Lord, praising the Lord, magni<g ref="char:EOLhyphen"/>fying the Lord,</hi> who only doth <hi>exalt vs,</hi> which is the <hi>honour</hi> that he doth to the <hi>humble,</hi> euen <hi>Exalt them.</hi>
+            </p>
+            <p>The height of which honour before I bring you vnto,
+<note place="margin">
+                  <hi>Secund a</hi> 2dae.</note> let me presēt vnto you the <hi>lowly speech of a proud Iesu-wide</hi> who seemes to set vs to this worke of <hi>humiliation,</hi> without hauing any eye at all to our <hi>exaltation,</hi> which is almost a Miracle among those <hi>Monsters:</hi> his words are these, <hi>Non debemus in humilitate propo<g ref="char:EOLhyphen"/>nere nobis pro fine pimario, Exaltationem.</hi>
+               <note n="(99)" place="margin">
+                  <hi>Lorin us loc. fol.</hi> 568 <hi>in</hi> 4 <hi>to.</hi>
+               </note> This ought not in our humilitie to be our chiefest aime, but it seemes that this fellow in all his trauels neuer thought on the <hi>Rhemists,</hi> for if hee had, they would haue taught him a new lesson, or else haue sent this booke to <hi>Antwerpe</hi> for an <hi>Index Purgatorius,</hi> for they hold and maintaine, <hi>That such workes are meritorious, and that we may doe them in respect of that reward.</hi>
+               <note n="(100)" place="margin">
+                  <hi>Rbemist. Annot. in mat.</hi> 6. <hi>Sect.</hi> 2. <hi>in</hi> Mat. 19. <hi>Sect</hi> 12</note> But all the Fathers of the Church had euer an eye to the <hi>Precept</hi> more then to the <hi>Profit,</hi> to the <hi>Duty</hi> more then to the <hi>Reward,</hi> which in<g ref="char:EOLhyphen"/>deede ought chiefely to hearten vs hereunto, as the same <hi>Lori<g ref="char:EOLhyphen"/>nus</hi> in the same place acknowledgeth; but leauing this dispute, I come to the word <hi>Exalt.</hi>
+            </p>
+            <p>Mans life is compared to the turning of a wheele: <hi>Sicut de<g ref="char:EOLhyphen"/>pressa rota ab Anteriori eleuaturà posteriori, &amp;c.</hi>
+               <note n="(101)" place="margin">
+                  <hi>Gorrast Domin ie.</hi> 3. <hi>pot. Trni. ser.</hi> 1. <hi>fo</hi> 74. <hi>B.</hi>
+               </note> For as a wheele turned round, that part that is vpmost is soone lowest, and so the contrarie: Euen so is it with the Faithfull, for a while <hi>cast downe,</hi> but anon, euen in <hi>due time Exalted,</hi> according 'to the <hi>Holy Virgin Maries Magnificat, Hee hath put downe the Mightie from their seates, and Exalted the Lowly and the Meeke.</hi>
+               <note n="(102)" place="margin">Luk. 1.52</note> Yea <hi>God wll honor them that honor Him.</hi> And <hi>Set vp on high, them that be Lowly, that the sorrowfull may bee Exalted to saluation.</hi>
+               <note n="(103)" place="margin">1 Sam. 2 30. Iob. 5.11.</note> The <hi>humble</hi> haue their <hi>Crosses,</hi> but they are onely for the tryall of their vertue, but they shall haue a
+<pb n="20" facs="tcp:3787:13"/>
+               <hi>Crowne,</hi> and that shall be in triumph of their victorie.</p>
+            <p>
+               <hi>Honour,</hi> it is but <hi>humilities</hi> shaddowe, for as the <hi>Shaddowe</hi> followes the <hi>body:</hi> so <hi>Honor Humilitie.</hi>
+               <note n="(104)" place="margin">Pro. 15.33.18.12.</note> And as for those that seeke for it otherwise, <hi>Anselmus</hi> compares them <hi>To little children following Butterflyes.</hi>
+               <note n="(105)" place="margin">Anselm in Sinil. sub Tit. Honor.</note> In which he noteth, that there is trauell and perill in pursuing of them, no gaine in getting of them, and greate griefe in loosing of them: yea looke on the <hi>Honor</hi> of the <hi>Insolent,</hi> and comparing it with the <hi>Humble</hi> that are <hi>Honored,</hi> and you shall not finde it counted worthy of the name of <hi>Honor: Alexanders Pompe and solemnitie at Babylon,</hi> was wondrous great, when as he kept as it were <hi>A Parliament</hi> of the whole world; but not many dayes after he could scarce obtaine the <hi>honor of Buriall,</hi> for he laye <hi>seauen daies aboue ground.</hi>
+               <note n="(106)" place="margin">
+                  <hi>Quint. Curt. lib.</hi> 10.</note>
+               <hi>Haman</hi> was for <hi>honor</hi> so highly exalted that he was re<g ref="char:EOLhyphen"/>puted of as <hi>Haman</hi> the <hi>High;</hi> but because he came not to it by <hi>humilitie,</hi> loe how it decayed! for when he expected to be <hi>Exalted</hi> to the <hi>high Seate of Dignity,</hi> woe worthlesse wretch, <hi>An Halter was his comfort.</hi>
+               <note n="(107)" place="margin">Hester. 3.5.9.7.10.</note> For <hi>they hanged</hi> Haman <hi>on the Tree that he had prepared for</hi> Morde-cai.</p>
+            <p>But looke on the <hi>Truely humble,</hi> and see if they <hi>Ascend not.</hi> Moyses <hi>in</hi> Pharaohs <hi>Court,</hi> Ioseph <hi>in</hi> Potaphars <hi>house,</hi> Dauid <hi>in</hi> Saules <hi>Pallace:</hi> yea by <hi>humilitie,</hi> the <hi>Publican</hi> was <hi>Iusti<g ref="char:EOLhyphen"/>fied.</hi>
+               <note n="(108)" place="margin">Luk. 18.13.14.</note> The <hi>Ʋirgin</hi> Mary <hi>Exalted.</hi>
+               <note n="(109)" place="margin">Luk. 1.48.</note> And <hi>Christ himselfe lifted vp.</hi>
+               <note n="(110)" place="margin">Phi. 2.8 9.</note> All these are and shall be had in An <hi>euerlasting remembrance.</hi>
+               <note n="(111)" place="margin">Psa. 112.6</note> They that affect <hi>Worldly ho<g ref="char:EOLhyphen"/>nors</hi> are like <hi>Saul,</hi> who care for no more <hi>Then that they may be honored before the people.</hi>
+               <note n="(112)" place="margin">1 Sam 15 30.</note> That is the limit of their base conceit, but the <hi>humble</hi> looke vp with an <hi>Eagle-like eye,</hi> vnto what shall be; and that is, <hi>They surely shall be Exalted;</hi> for as Christ is the <hi>Kingdome, the Power and the Glory.</hi>
+               <note n="(113)" place="margin">Mat. 6.13.</note> So shall it be to the <hi>humble Christians.</hi> They shall haue <hi>A Kingdome,</hi> so saith <hi>Christ,</hi> Mat. 18.4. They shall haue <hi>Power,</hi> so saith <hi>Iob</hi> c. 5.11. They shall haue <hi>Glory,</hi> so saith Saint <hi>Peter,</hi> 1 Peter 5.4. By all which appeares. <hi>That Godlinesse is not without a Reward, or hu<g ref="char:EOLhyphen"/>militie without Exaltation.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> Take then notice of this all ye that <hi>Gibe, geare, iest and ioy at the lowe estate of the lowly,</hi> saying, <hi>These are they that walked humbly before
+<pb n="21" facs="tcp:3787:13"/>the Lord, but to what purpose, or for what profit? they seeme most pure, yet they continue most poore, and where then is the pro<g ref="char:EOLhyphen"/>mise of Exaltation?</hi> oh stay a while; &amp; a behold it at last: for though euery one that is <hi>humble</hi> doth not here with <hi>Saul</hi> finde a <hi>King<g ref="char:EOLhyphen"/>dome</hi> whilst he is <hi>seeking his Asses.</hi>
+               <note n="(114)" place="margin">1. Sam. 9.3.15.</note> Or of an <hi>Heards<g ref="char:EOLhyphen"/>man</hi> with <hi>Amos</hi> become <hi>a Prophet.</hi>
+               <note n="(115)" place="margin">Amos 1.1.</note> Or <hi>of a Fisher-man</hi> with <hi>Peter,</hi> is made <hi>a Fisher of men.</hi>
+               <note n="(116)" place="margin">Mat. 4.19</note> Yet with your eyes you haue seene <hi>Basket boyes made Bishops,</hi> and <hi>poore Apprentices, rich Aldermen;</hi> and why then doe men scorne at the estate of the <hi>lowly,</hi> or distrust their <hi>Exaltation?</hi> The mouth of the Lord hath spoken it, and the hand of the Lord shall bring it to passe, that they shall be <hi>Exalted.</hi> But yet by degrees, and what if with Christ they be lifted vp the <hi>Crosse,</hi> before they be <hi>Exalted</hi> to the <hi>Crowne,</hi> is there any losse in it? surely no. As therefore <hi>Pom<g ref="char:EOLhyphen"/>pey the Great</hi> when he had passed ouer to <hi>Lybia</hi> against <hi>Domi<g ref="char:EOLhyphen"/>tian</hi> and hauing vanquished the enemie in a great battle, his soul<g ref="char:EOLhyphen"/>diers saluted and honored him with the name of <hi>an Emperour,</hi> but he denyed to accept of that honor as long as <hi>The Campe of his enemies did remaine in his sight, not demolished.</hi>
+               <note n="(117)" place="margin">Plutarchin in vitae Pomp.</note> So may we more willingly want the <hi>Fulnes of our honor</hi> as long as our <hi>Enemie Sinne is within vs.</hi> Till <hi>that</hi> be quite vanquished, let vs neuer dreame of or looke after the <hi>hight of our Exaltation,</hi> but yet for our comfort let vs see a little how. God begins it here, though he finisheth it hereafter, and that, Thus:</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>By ministring the inward comfort of his holy Spirit in all dangers and difficulties:</hi> for doe but obserue what the <hi>humble</hi> are, euen <hi>Gods Cittizens.</hi>
+               <note n="(118)" place="margin">Ephes. 2.19.</note> In whom <hi>Dauid</hi> hath ob<g ref="char:EOLhyphen"/>serued <hi>a Riuer to runne,</hi> whose streames (saith he) <hi>make them glad.</hi>
+               <note n="(119)" place="margin">Psal. 46.4</note> Which <hi>Riuer</hi> is Christ, saith <hi>Bruno,</hi> and the <hi>Cit<g ref="char:EOLhyphen"/>tie</hi> is the <hi>Soule</hi> saith Saint <hi>Hierome.</hi>
+               <note n="(120)" place="margin">Bruno &amp; Hierom. ibid.</note> Yea indeede, as a Riuer with its siluer streames doth refresh a Cittie, so doth Christ that is the <hi>Fountaine of liuing water</hi> refresh comfort, and glad the soules of the <hi>humble</hi> as sorrowfull as they seeme to be, and so are they <hi>Comforted, Exalted and lifted vp.</hi>
+            </p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> he <hi>Exalts them, by deliuering them out of all their troubles,</hi> by which some are so <hi>cast downe,</hi> as if they were <hi>cast out,</hi> but yet be not ouer much dismayed, for, <hi>Though many be
+<pb n="22" facs="tcp:3787:14"/>the troubles of the Righteous, yet the Lord deliuered them out of all.</hi>
+               <note n="(121)" place="margin">Psal. 34.17.19</note> As he did <hi>Iacob</hi> from <hi>Laban</hi> Gen. 31.55. <hi>Ioseph</hi> from his <hi>Brethren,</hi> Gen. 39.2. <hi>Dauid</hi> from <hi>Saul,</hi> 1 Sam. 23.13. And <hi>vs</hi> from <hi>foraine inuasions, and home-bred conspiracies,</hi> and so are his <hi>Saints</hi> and <hi>seruants. Exalted.</hi>
+            </p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> to all these he addes, <hi>Honor and great Glory,</hi> first, for <hi>Honor,</hi> how did he bring <hi>Little</hi> Dauid, <hi>lowe</hi> Dauid, <hi>and lowely</hi> Dauid <hi>from the sheepfold, to set him with the Princes, yea with the Princes of his People.</hi>
+               <note n="(122)" place="margin">Psal. 78.70.71.72.</note> and so <hi>Exalted</hi> him?</p>
+            <p>And this is not all, <milestone type="tcpmilestone" unit="unspecified" n="4"/> for besides this <hi>Honor,</hi> they shall haue <hi>great Glory,</hi> euen <hi>The Kingdome of Glory</hi> as saith our Sauiour, <hi>Blessed are the poore in spirit, for theirs is the Kingdome of God.</hi>
+               <note n="(123)" place="margin">Mat. 5.3.</note> Such <hi>comfort,</hi> such <hi>deliuerances,</hi> such <hi>Honor,</hi> and so great <hi>Glory</hi> shall such haue as are so <hi>Humble</hi> euen so shall they be <hi>Exalted,</hi> and thats in Gods time, which my Apostle here cals, <hi>a Due time,</hi> and this is the last circumstance of my Text which I hope also to end euen <hi>In due time.</hi>
+               <note place="margin">
+                  <hi>Teruia</hi> 2dae.</note>
+            </p>
+            <p>Wee all knowe, <hi>That a good turne findes little acceptance, which hath not a due time of performance,</hi> and therefore in all emi<g ref="char:EOLhyphen"/>nent actions, wisemen striue for <hi>Oportunitie and seasonablenes,</hi> els they doe most commonly loose the luster of their endeauours. <hi>A word in season,</hi> and <hi>a worke in season,</hi> Oh how <hi>good</hi> and how <hi>ioyfull a thing is it?</hi>
+            </p>
+            <q>
+               <l>Temporibus medicina valet, data Tempore prosunt,</l>
+               <l>Et data non Apto tempore vina nocent.
+<note n="(124)" place="margin">
+                     <hi>Ouid. de rem. Amoris l.</hi> 4</note>
+               </l>
+            </q>
+            <p>Phisicke and Foode giuen in due season prosper well, but the most necessarie of these out of due time, doe hurt rather then helpe. We all know that there is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Time,</hi> and that there is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Due time</hi> which the <hi>Ʋulgar</hi> renders, or to which it addes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>In the day of your visitation:</hi> which though <hi>Lo<g ref="char:EOLhyphen"/>rinus,</hi> a little loanes to,
+<note n="(125)" place="margin">Lorinus vbi supra.</note> Yet <hi>Caietane</hi> who is commen<g ref="char:EOLhyphen"/>ded by their <hi>Senensis.</hi>
+               <note n="(126)" place="margin">
+                  <hi>Bibloteh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> l.</hi> 4. <hi>Tit. Thomas</hi>
+               </note> For <hi>an incomparable Diuine,</hi> and by <hi>Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> irius the Iesuite.</hi>
+               <note n="(127)" place="margin">
+                  <hi>Perer. Cō<g ref="char:EOLhyphen"/>ment. in Gen.</hi> 1.</note> For the <hi>most learned man of his time,</hi> yet he vtterly condemnes the translation, and saith that the sense is <hi>In tempore quo opus est Exaltari.</hi>
+               <note n="(128)" place="margin">Caiectanm loc.</note> In a time most fit, and most conuenient. And hence it is, that God hath this gra<g ref="char:EOLhyphen"/>cious attribute among the rest, which is <hi>A present helpe in time
+<pb n="23" facs="tcp:3787:14"/>of neede.</hi>
+               <note n="(129)" place="margin">Psal. 9.9.</note>
+               <hi>Id est, necessitate praestantur, eum animus affli<g ref="char:EOLhyphen"/>ctorum ad conpunctionem auidiùs incitatur.</hi>
+               <note n="(130)" place="margin">
+                  <hi>Bruno i<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Psal. 9.9.</note> That is, hee performes it in extremitie, then when the minde of him that is in affliction doth most greedily couer and desire it.</p>
+            <p>Who so will narrowly pry into Gods actions, he shall finde him in them all, like a most <hi>harmonious Musitian</hi> for <hi>keeping of time,</hi> for which hee deserues no lesse to be admired in the Cir<g ref="char:EOLhyphen"/>cumstance, then to be honored in the Substance of his fauours.</p>
+            <p>Obserue well that when <hi>Mary the Mother of Iesus,</hi> would haue had him to <hi>Turne water</hi> into <hi>wine,</hi> hee told her, <hi>That she must stay her time,</hi> for <hi>Mine houre is not yet come.</hi>
+               <note n="(131)" place="margin">Ioh. 2.4.</note> (<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) <hi>hora qua sit magis grata, &amp; vtile miraculum ijs quibus postulas fie<g ref="char:EOLhyphen"/>ri.</hi>
+               <note n="(132)" place="margin">Hugo. Card &amp; Gorran. Ex Chrys. in loc.</note> That is, the houre wherein it may be more accepta<g ref="char:EOLhyphen"/>ble, and the miracle more profitable; for them for whose sakes thou desirest it to be done. And marke I pray you that though <hi>he loued Lazarus,</hi> yet he would not make such haste to see him as his Disciples desired; and why troe you? euen because he that knewe all things, knewe <hi>This</hi> thing also, <hi>That this was the fittest time,</hi> and that both in respect of
+<list>
+                  <item>1 of God.</item>
+                  <item>2 of himselfe.</item>
+                  <item>3 of his Disciples.</item>
+               </list>
+            </p>
+            <p>First <milestone type="tcpmilestone" unit="unspecified" n="1"/> in regard of God, because to him would accrue the greater <hi>Glory.</hi> Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> to himselfe, because hereby he should the more soundly confute and confound the <hi>Iewes.</hi> Thirdly <milestone type="tcpmilestone" unit="unspecified" n="3"/> to his Disciples, because through this miracle they were the more strōg<g ref="char:EOLhyphen"/>ly confirmed in their beliefe: And this was Gods <hi>Due time.</hi>
+            </p>
+            <p>If we looke into Gods <hi>Punishing of wiskednes, rewarding of goodnesse, or giuing of benefits,</hi> see how he brings them all forth <hi>in the fit appointed seasons.</hi> The <hi>Canaanite,</hi> when his <hi>iniquitie is full and ripe</hi> hee shall bee <hi>visited.</hi>
+               <note n="(133)" place="margin">Gen. 15.16.</note> The <hi>Israelites,</hi> when 430. <hi>yeares are full,</hi> they shall be deliuered
+<note n="(134)" place="margin">Exo. 12.41.</note> And <hi>in the fulnes of time God will send his Sonne.</hi>
+               <note n="(135)" place="margin">Gal. 4.4</note> Yea and <hi>if we be truely humbled we shall assuredly be exalted, but not till</hi> God see <hi>a Due time.</hi>
+            </p>
+            <p>And let this teach vs both
+<list>
+                  <item>1 <label type="milestone">
+                        <seg type="milestoneunit">Vse. </seg>1</label>
+                     <hi>Patience. and</hi>
+                  </item>
+                  <item>2 <label type="milestone">
+                        <seg type="milestoneunit">Vse. </seg>2</label>
+                     <hi>Comfort.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="24" facs="tcp:3787:15"/>
+            <p>First <hi>Patience:</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For oh thou that thus expostulatest with thy selfe saying: <hi>Will the Lord absent himselfe for euer? and will he be no more intreated? Hath he forgotten to be Gracious, or are his promises come to an end?</hi> (136.) Know thou thy selfe to be but in a Fit, weigh well with thy selfe, <hi>That the Smith strikes not the Iron till it be hot.</hi> Thinke with thy selfe, <hi>That the Haruest man reapes not his crop till it be ripe.</hi> And why shouldst thou not ex<g ref="char:EOLhyphen"/>pect with <hi>Patience,</hi> the faithfull execution of all that good hee hath proposed to thee in the seasons which with himselfe hee hath dispensed thereunto?</p>
+            <p>You may see how angry the Lord was at the King of <hi>Sama<g ref="char:EOLhyphen"/>riaes</hi> pettish impatience, who out of the aboundance of his heart could not let his mouth to vtter this blasphemie, saying: <hi>Behold this euill cōmeth from the Lord, should I attend on him any longer?</hi>
+               <note n="(137)" place="margin">1 King. 6.33.</note> And shouldst thou not oh King? yes surely thou ough<g ref="char:EOLhyphen"/>test to waite on him who is the Author of time, and Giuer of gifts and blessings in <hi>Due season:</hi> Yea indeed though our case be much like vnto <hi>Dauids in our humiliation or affliction:</hi> of which he saith, <hi>I am weary of my crying, mine eyes saile me whilst I wayte for my God</hi>
+               <note n="(138)" place="margin">Psal. 69.3.</note> yet let vs neuer giue ouer, but rather put on <hi>Iobs</hi> resolution, which was, <hi>Though they kill me, yet will I put my trust in him.</hi>
+               <note n="(139)" place="margin">Iob.</note> For <hi>That</hi> perhappes <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Time</hi> that God holds most Fit and opportune: <hi>Iudith</hi> therefore in the Storie, told <hi>Ozias</hi> the Captaine of the <hi>Bethulians,</hi> when as he resolued to wayte but fiue dayes for helpe from the Lord, so I say to all that are impatient of Gods slackenes. <hi>My brethren prouoke not the Lord our God to anger, for if hee will not help within these fiue dayes, he hath power to helpe when he will, euen euery day, doe you not therefore bind the Counsels of the Lord our God, for God is not as man that he may be threatned, nor as the son of man that he may be brought to Iudgment. Therefore let vs wayte for his saluation, and call vpon him for helpe, and hee will heare our voyce if it please him.</hi>
+               <note n="(140)" place="margin">Iud<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 8.15. <hi>ad.</hi> 18.</note> And if not, why let vs say with <hi>Elie, It is the Lord, let him doe with vs as it pleaseth him.</hi>
+               <note n="(141)" place="margin">1. Sa. 31.18.</note>
+               <hi>If therefore the Vision tarry, yet wayte for it, for it shall surely come, and shall not tarry.</hi>
+               <note n="(142)" place="margin">Hab. 2.3</note> For <hi>God is not stacke as Men count slackenesse.</hi>
+               <note n="(143)" place="margin">2 Pet. 3.9</note> That is, he is not one that negle<g ref="char:EOLhyphen"/>cteth
+<pb n="25" facs="tcp:3787:15"/>his season to come later then he should, but he will then come euen when it is <hi>Due time.</hi>
+            </p>
+            <p>And the better to bring vs to this, let vs be drawne by one consideration more, and that is this, Let vs but bethinke our selues <hi>How many a long looke God hath made for vs: hath hee not stood at our doores, knocking and calling</hi>
+               <note n="(144)" place="margin">Reu. 3<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 20</note>
+               <hi>Ʋntill his head was full of dewe and his lockes full of the droppes of the night?</hi>
+               <note n="(145)" place="margin">Caut. 5.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> Yea <hi>forty dayes for Niniueh</hi> Ionas 3.4. <hi>Forty yeares for Israel. I</hi> Psal. 95.10. And a whole <hi>hundreth for England:</hi> how much more then should we waite on God till he will haue mer<g ref="char:EOLhyphen"/>cy, for hee hath promised, <hi>That he will rise and haue mercy on Sion.</hi>
+               <note n="(146)" place="margin">Psal. 102<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 13</note>
+               <hi>Yea and now oh Lord, let thy mercy be shewed vpon vs if it be thy will, for loe thine enemies oh Lord, loe thine enemies triumph vngodly, now they say, where is now the God of the Here<g ref="char:EOLhyphen"/>tickes? Our soule is beaten downe to the dust, and our bellie cleaueth to the ground, arise therefore for our succour, and redeeme vs for thy mercies sake, and if not, then good God giue vs patience to wayte on thee, vntill thou seest good, and helpe vs in thy due time.</hi>
+            </p>
+            <p>Againe, as this instructeth <hi>Patience,</hi> so it ministreth <hi>Comfort.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> The ground of which is, <hi>The promise of God</hi> who saith, <hi>That though we sowe in teares, yet we shall reape in ioy.</hi>
+               <note n="(147)" place="margin">Psa. 126.5.6.</note> And againe, <hi>Though heauines endure for a night, yet ioy shall come againe in the morning.</hi>
+               <note n="(148)" place="margin">Ps. 30.5.</note>
+               <hi>He will not alwayes chide, neither keepeth he his anger for euer.</hi>
+               <note n="(149)" place="margin">Psal. 103.9.</note>
+               <hi>Therefore faint not, but though our outward man did perish yet the inward man is renewed dayly.</hi>
+               <note n="(150)" place="margin">1. Cor. 4.16.</note> God that hath the <hi>Times and seasons</hi> in his hand, knowes perhaps, <hi>That the day of death or the day of Iudge<g ref="char:EOLhyphen"/>ment</hi> is the fittest day for our deliuerie: why if it be so, oh let vs be cōforted in that: for then as our heads are now full of heauines, &amp; our hearts of mourning, so in that day, both our bodies and soules shall be put in full possession of the fulnes of ioy &amp; feli<g ref="char:EOLhyphen"/>citie, where shall be no want, onely abide patiently and looke comfortably for that time. Expect it without despaire, &amp; he will come without delay, there shall not be a minute of time prolon<g ref="char:EOLhyphen"/>ged of his prefixed period, which though it be not knowne afore, yet it shall be discerned afterward, and euen so well approued of by our owne selues, as that we shall surely say, <hi>It was good
+<pb n="26" facs="tcp:3787:16"/>for vs that he stayd till euen now,</hi> for if he had come either soone or later, we should not perhaps beene halfe so feruent, or per<g ref="char:EOLhyphen"/>aduenture one quarter so faithfull as now wee are, but now this that we counted <hi>slackenesse in God</hi> hath perfected both these gra<g ref="char:EOLhyphen"/>ces in vs, and made vs to know <hi>How, when, and how long we ought to humble our selues vnder his mightie hand,</hi> of which hauing had such experience, let vs thereby take comfort also, and then our Descent by <hi>humilitie</hi> shall not be so <hi>lowe,</hi> but that our Ascent by <hi>Sublimitie</hi> shall bee as <hi>high,</hi> and that in such <hi>Due time and tide</hi> as shall best make for Gods glory &amp; our good. <hi>And if it may now be, oh Lord so be it, now comfort vs after the time that thou hast Plagued vs; and for the yeares wherein we haue suffered ad<g ref="char:EOLhyphen"/>uersitie: Now heale the sores of our Land, for it shaketh: now vn<g ref="char:EOLhyphen"/>der propit, for our best pillars begin to faile, and the good are ta<g ref="char:EOLhyphen"/>ken away (as we feare) from the euill to come; we are nowe cast downe, oh Lord raise vs vp. We now humble our selues by fasting and Prayer, &amp; now oh Lord if it be thy will Exalt vs in thy strength, and let none of those euils happen vnto vs, as our enemies doe either intend or threathen against vs, but in thy good time deliuer vs, and then we will Glorisie thy name, trust in thy Promises, and hope in thy Mercies through Christ his Merits to wome with Thee and the Holy Spirit, we ascribe all Honor and Glorie and Praise and Do<g ref="char:EOLhyphen"/>minion, Now, and for euermore.</hi>
+            </p>
+            <closer>Amen, Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:3787:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
